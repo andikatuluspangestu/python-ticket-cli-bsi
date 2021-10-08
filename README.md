@@ -3,6 +3,8 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Pert
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/62005221/136515245-a9b7d9ee-d073-496b-a59f-cff4f0db2975.png)
+Karyawan
 ### 🕵️‍♂️ Author
 - Andika Tulus Pangestu - 12210940
 
@@ -13,7 +15,6 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Pert
 - Archcraft Distro Linux
 - Visual Studio Code
 - VSCode Theme by Ayu Dark Mirage & Atom One Light
-- [App Diagrams](https://app.diagrams.net/)
 - Github
 
 ### 🔐 Lisensi
